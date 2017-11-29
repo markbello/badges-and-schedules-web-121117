@@ -6,4 +6,5 @@ def conference_badges
       badges << "Hello, my name is #{name}"
     }
     return badges
+  end
 end
