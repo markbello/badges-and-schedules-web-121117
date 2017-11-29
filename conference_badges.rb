@@ -5,5 +5,5 @@ def conference_badges
       ||name||
       badges << "Hello, my name is #{name}"
     }
-    badges
+    return badges
 end
