@@ -1,8 +1,3 @@
-def badge_maker(arr)
-  badges = []
-  arr.each{
-    ||name||
-    badges << "Hello, my name is #{name}"
-  }
-  return badges
+def badge_maker(name)
+  "Hello, my name is #{name}"
 end
